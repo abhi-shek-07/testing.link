@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Our Wedding - Raj ki Pooja</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #f5f5f5;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    nav {
+      margin-top: 10px;
+    }
+    
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #333;
+    }
+    
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+    .section {
+      padding: 40px;
+      text-align: center;
+    }
+    
+    .haldi {
+      background-color: yellow;
+      color: #333;
+    }
+    
+    .mehendi {
+      background-color: #FFC0CB;
+      color: #333;
+    }
+    
+    .sangeet {
+      background-color: #d3d3d3;
+      color: #333;
+    }
+    
+    .reception {
+      background-color: #87CEEB;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Our Wedding</h1>
+    <nav>
+      <a href="#haldi">Haldi</a>
+      <a href="#mehendi">Mehendi</a>
+      <a href="#sangeet">Sangeet</a>
+      <a href="#reception">Reception</a>
+    </nav>
+  </header>
+
+  <div id="haldi" class="section haldi">
+    <h2>Haldi Ceremony</h2>
+    <p>Celebrate the pre-wedding festivities with us!</p>
+    <img src="https://png.pngtree.com/png-clipart/20230111/original/pngtree-haldi-couple-cute-indian-on-ceremony-in-yellow-outfits-bride-and-png-image_8901951.png" alt="Haldi Ceremony">
+  </div>
+
+  <div id="mehendi" class="section mehendi">
+    <h2>Mehendi Ceremony</h2>
+    <p>Experience the beauty of tradition and artistry.</p>
+    <img src="https://as2.ftcdn.net/v2/jpg/05/43/88/77/1000_F_543887707_P8FWI6HPiEw2pYavhtTbgPuWFblazbL8.jpg" alt="Mehendi Ceremony">
+  </div>
+
+  <div id="sangeet" class="section sangeet">
+    <h2>Sangeet Ceremony</h2>
+    <p>Get ready to dance and celebrate love!</p>
+    <img src="https://img.freepik.com/premium-vector/cute-indian-couple-dance-sangreet-wedding-ceremony_21630-983.jpg?w=2000" alt="Sangeet Ceremony">
+  </div>
+
+  <div id="reception" class="section reception">
+    <h2>Wedding Reception - Raj ki Pooja</h2>
+    <p>Join us as we begin our journey together.</p>
+    <img src="https://t4.ftcdn.net/jpg/04/30/04/09/360_F_430040944_Wet8tHlMWl5lJ5GGdcVjyxn9jR9hNRBj.jpg" alt="Wedding Reception">
+  </div>
+
+  <footer>
+    <p>&copy; 2023 Rajat weds Pooja. All rights reserved.</p>
+  </footer>
+</body>
+</html>
